@@ -15,4 +15,4 @@ Significant sampling for shortest path routing: a deep reinforcement learning so
 - OU process, 6 paths
 - FeedForward NN (actor & critic)
 - Artificial experience generation
-- Fed a period of history to NNs
+- Fed a period of history to NNs (for processes with memory)
