@@ -10,7 +10,7 @@ Significant sampling for shortest path routing: a deep reinforcement learning so
 - FeedForward NN (actor & critic)
 - no artificial experience generation
 
-3. OU_6Path_Future.py
+3. Codes_6Path
 - The multi-step look-ahead policy
 - OU process, 6 paths
 - FeedForward NN (actor & critic)
